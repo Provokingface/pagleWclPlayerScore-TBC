@@ -1,4 +1,0 @@
-<Ui xmlns="http://www.blizzard.com/wow/ui/">
-<Script file="top.lua" />
-<Script file="5009.lua" />
-</Ui>
